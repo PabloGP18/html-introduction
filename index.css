@@ -1,0 +1,38 @@
+body {
+    background-color: lightgray;
+}
+h1{
+    font-size: 50px;
+    text-align: center;
+}
+p{
+    text-align: center;
+    font-size: 30px;
+}
+img{
+    display: block;
+    margin: 0px auto;
+}
+table.center{
+    margin-left: auto;
+    margin-right: auto;
+}
+h2{
+    font-size: 40px;
+    text-align: center;
+}
+h3{
+    font-size: 30px;
+    text-align: center;
+}
+.list{
+    display: flex;
+    justify-content:center;
+    font-size: 30px;
+}
+.link {
+    display: flex;
+    justify-content: center;
+    font-size: 50px;
+}
+
